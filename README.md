@@ -27,12 +27,12 @@ The MCP server exposes a single **GET** endpoint:
 
 📁 Project Structure
 MCP_Resume/
-├── main.py           # 🚀 FastAPI server
-├── .env              # 🔐 Secrets and settings
-├── ngrok.yml         # 🌐 ngrok config (optional)
-├── resumes/
-│   └── resume.pdf    # 📄 Your actual resume
-└── README.md         # 📘 This file
+- ├── main.py           # 🚀 FastAPI server
+- ├── .env              # 🔐 Secrets and settings
+- ├── ngrok.yml         # 🌐 ngrok config (optional)
+- ├── resumes/
+- │   └── resume.pdf    # 📄 Your actual resume
+- └── README.md         # 📘 This file
 
 
 ⚙️ How to Run
